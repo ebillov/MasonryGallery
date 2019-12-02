@@ -1,0 +1,9 @@
+Version 1.0.1 (July 5, 2018)
+- Added the Ajax preloader icon
+- Added the data fields right inside the wp.modal wrapper when editing or choosing a gallery
+
+Version 1.0.0 (April 3, 2018)
+- Initial release.
+
+Pending:
+- Load more items via scroll event.
